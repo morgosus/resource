@@ -82,6 +82,7 @@
 
 .gsc-comment-box-preview {
   margin-bottom: var(--half) !important;
+  border: none;
 }
 
 .gsc-comment-box-textarea {
@@ -95,7 +96,12 @@
 }
 
 .gsc-comment-box {
+  border: none;
   margin-bottom: var(--full) !important;
+}
+
+.gsc-comment-box-main {
+  outline: 1px solid green;
 }
 
 .gsc-comment-content {
