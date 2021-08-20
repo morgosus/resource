@@ -81,11 +81,13 @@
 }
 
 .gsc-comment-box-preview {
+  padding: var(--half);
   margin-bottom: var(--half) !important;
   border: #EEEEEE 1px solid;
 }
 
 .gsc-comment-box-textarea {
+  padding: var(--half);
   resize: none;
   border: #EEEEEE 1px solid;
 }
