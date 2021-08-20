@@ -95,15 +95,13 @@
     position: relative;
 }
 
-.gsc-comment-author span {
-    position: absolute;
-}
-
 .gsc-comment-author .Link--primary {
+    position: absolute;
     bottom: 0;
     right: 0;
 }
 .gsc-comment-author .Link--secondary {
+    position: absolute;
     top: 0;
     left: 0;
 }
