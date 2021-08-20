@@ -95,6 +95,7 @@
 /*Reply box*/
 .gsc-reply-box {
   border-top: #EEEEEE 1px solid;
+  padding-top: var(--full) !important;
   width: 100%;
 }
 
