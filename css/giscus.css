@@ -87,6 +87,7 @@
 
 .gsc-comment-box-textarea {
   resize: none;
+  border: none;
 }
 
 .gsc-comment {
