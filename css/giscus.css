@@ -116,6 +116,7 @@
   border-top: #EEEEEE 1px solid;
   padding-top: var(--half) !important;
   width: 100%;
+  margin-left: 18%;
 }
 
 .gsc-reply-box:first-child {
@@ -211,6 +212,7 @@
   margin-top: var(--half) !important;
   padding-top: var(--half) !important;
   width: 100%;
+  margin-left: 18%;
 }
 
 .gsc-reply {
