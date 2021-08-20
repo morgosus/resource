@@ -114,8 +114,8 @@
 }
 
 .gsc-comment-author-avatar {
-  width: 80.9016994375px;
-  height: 80.9016994375px;
+  width: 80.902px;
+  height: 80.902px;
 }
 
 .gsc-comment-author:last-child {
@@ -133,4 +133,8 @@
 
 .gsc-reply-author-avatar {
   margin-right: 8.090px !important;
+}
+
+.gsc-reply-author:first-child {
+  margin-right: 8.090px;
 }
