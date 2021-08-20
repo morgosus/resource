@@ -67,25 +67,25 @@
   display: inline;
 }
 
-/*Textarea*/
-
-.gsc-comment-box {
-  padding: var(--half);
-}
-
-.gsc-comment-box-preview {
-  margin-bottom: var(--half);
-}
-
-.gsc-comment-box-textarea {
-  resize: none;
-}
-
 /*Comments*/
 .gsc-comment * {
   border: none;
   border-radius: 0;
   text-decoration: none !important;
+}
+
+/*Textarea*/
+
+.gsc-comment-box {
+  padding: var(--half) !important;
+}
+
+.gsc-comment-box-preview {
+  margin-bottom: var(--half) !important;
+}
+
+.gsc-comment-box-textarea {
+  resize: none;
 }
 
 .gsc-comment {
