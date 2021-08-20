@@ -85,6 +85,7 @@
   padding: var(--half) !important;
   resize: none;
   border: #EEEEEE 1px solid;
+  max-width: 82%;
 }
 
 .gsc-comment {
@@ -97,6 +98,7 @@
 }
 
 .gsc-comment-box-main {
+  text-align: right;
 }
 
 .gsc-comment-content {
