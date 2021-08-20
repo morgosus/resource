@@ -5,7 +5,6 @@
 
 .gsc-comments > .gsc-comment-box {
     order: 2;
-    margin-bottom: 1rem;
 }
 
 .gsc-comments > .gsc-timeline {
@@ -19,6 +18,13 @@
 /*Remove clutter*/
 .gsc-header, .gsc-comment-reactions, .gsc-reactions-menu, .gsc-comment-replies-count, .gsc-comment-box-markdown-hint, .gsc-upvotes, .gsc-comment-box-separator {
     display: none;
+}
+
+#__next * {
+    box-sizing: border-box;
+    border-radius: 0 !important;
+    margin: 0;
+    padding: 0;
 }
 
 /*Blockquotes*/
@@ -45,13 +51,6 @@
 /*Textarea*/
 .gsc-comment-box-textarea {
     resize: none;
-}
-
-#__next * {
-    box-sizing: border-box;
-    border-radius: 0 !important;
-    margin: 0;
-    padding: 0;
 }
 
 /*Comments*/
