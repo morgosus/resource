@@ -93,7 +93,7 @@
 }
 
 .gsc-comment {
-  padding: var(--half) !important;
+  padding: var(--full) !important;
   border: #EEEEEE 1px solid;
   margin-bottom: var(--full) !important;
 }
@@ -107,7 +107,7 @@
 }
 
 .gsc-comment-content {
-  margin-left: var(--half) !important;
+  margin-left: var(--full) !important;
   margin-bottom: var(--half) !important;
 }
 
