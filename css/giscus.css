@@ -133,7 +133,7 @@
   font-weight: normal;
 }
 
-.gsc-comment-author .Link--primary {
+.gsc-comment-author .Link--secondary {
   font-size: 13.5px !important;
   line-height: 13.5px !important;
   position: absolute;
@@ -143,7 +143,7 @@
   padding-left: var(--half) !important;
   padding-right: var(--half) !important;
 }
-.gsc-comment-author .Link--secondary {
+.gsc-comment-author .Link--primary {
   font-size: 13.5px !important;
   line-height: 13.5px !important;
   position: absolute;
