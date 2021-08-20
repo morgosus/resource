@@ -217,7 +217,7 @@
   margin-bottom: var(--half) !important;
 }
 
-.gsc-reply-author {
+.gsc-reply-author * {
   font-weight: normal !important;
 }
 
