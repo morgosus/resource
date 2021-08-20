@@ -87,7 +87,7 @@
 }
 
 .gsc-comment-box-textarea {
-  padding: var(--half);
+  padding: var(--half) !important;
   resize: none;
   border: #EEEEEE 1px solid;
 }
