@@ -88,7 +88,7 @@
   max-width: 15%;
 }
 
-.gsc-comment-header .flex, .gsc-comment-header .hidden {
+.gsc-comment-header .flex, .gsc-comment-header .hidden, .gsc-reply-author .hidden {
   display: none !important;
 }
 
