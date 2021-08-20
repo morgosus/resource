@@ -180,3 +180,19 @@
 .gsc-reply-box img {
   margin-right: var(--half) !important;
 }
+
+.gsc-comment:nth-of-type(2n) .gsc-comment-content {
+  order: 1;
+}
+
+.gsc-comment:nth-of-type(2n) .gsc-comment-header {
+  order: 2;
+}
+
+.gsc-comment:nth-of-type(2n) .gsc-replies {
+  order: 3;
+}
+
+.gsc-comment:nth-of-type(2n) .gsc-reply-box {
+  order: 4;
+}
