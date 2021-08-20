@@ -31,7 +31,7 @@
 
 .gsc-comment-content blockquote {
     border-left: 4.031px solid #EEEEEE;
-    padding-left: 8.090px;
+    padding-left: 8.090px !important;;
     font-size: 13.5px;
     line-height: 24px;
 }
@@ -60,7 +60,7 @@
 }
 
 .gsc-comment {
-    padding: 8.090px;
+    padding: 8.090px !important;
     border: black 1px solid;
 }
 
