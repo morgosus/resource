@@ -114,11 +114,15 @@
 }
 
 .gsc-comment-author .Link--primary {
+  font-size: 13.5px !important;
+  line-height: 13.5px !important;
   position: absolute;
   bottom: 0;
   right: 0;
 }
 .gsc-comment-author .Link--secondary {
+  font-size: 13.5px !important;
+  line-height: 13.5px !important;
   position: absolute;
   top: 0;
   left: 0;
