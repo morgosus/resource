@@ -48,7 +48,10 @@
 }
 
 #__next * {
+    box-sizing: border-box;
     border-radius: 0 !important;
+    margin: 0;
+    padding: 0;
 }
 
 /*Comments*/
@@ -86,6 +89,23 @@
 
 .gsc-comment-content {
     max-width: 70%;
+}
+
+.gsc-comment-author {
+    position: relative;
+}
+
+.gsc-comment-author span {
+    position: absolute;
+}
+
+.gsc-comment-author .Link--primary {
+    bottom: 0;
+    right: 0;
+}
+.gsc-comment-author .Link--secondary {
+    top: 0;
+    left: 0;
 }
 
 .gsc-comment-author-avatar {
