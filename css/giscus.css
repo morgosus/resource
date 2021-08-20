@@ -139,6 +139,7 @@
   bottom: var(--quarter);
   border-left: #EEEEEE var(--quarter) solid;
   right: 0;
+  padding-left: var(--half) !important;
   padding-right: var(--half) !important;
 }
 .gsc-comment-author .Link--secondary {
@@ -149,6 +150,7 @@
   border-right: #EEEEEE var(--quarter) solid;
   left: 0;
   padding-left: var(--half);
+  padding-right: var(--half) !important;
 }
 
 .gsc-comment-author-avatar {
