@@ -81,6 +81,7 @@
 .gsc-comment {
   padding: var(--half) !important;
   border: black 1px solid;
+  margin-bottom: var(--full);
 }
 
 .gsc-comment-content {
