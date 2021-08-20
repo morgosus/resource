@@ -27,6 +27,7 @@
 }
 
 #__next * {
+  font-family: -webkit-pictograph, sans-serif;
   box-sizing: border-box;
   border-radius: 0 !important;
   margin: 0;
