@@ -210,6 +210,14 @@
   margin-bottom: var(--half) !important;
 }
 
+.gsc-reply-author {
+  font-weight: normal !important;
+}
+
+.gsc-reply-author time {
+  font-size: 13.5px !important;
+}
+
 .gsc-comment-box-tabs {
   display: none;
 }
