@@ -107,6 +107,7 @@
 .gsc-comment div.w-full {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .gsc-comment-header {
