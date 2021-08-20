@@ -224,6 +224,9 @@
 .gsc-reply-author time {
   font-size: 13.5px !important;
 }
+.gsc-reply-author time:after {
+  content: ': ';
+}
 
 .gsc-comment-box-tabs {
   display: none;
