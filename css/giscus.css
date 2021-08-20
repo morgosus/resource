@@ -180,6 +180,8 @@
 .gsc-comment-author-avatar {
   width: 100%;
   height: 100px;
+}
+.gsc-comment-author-avatar img {
   object-fit: cover;
 }
 
