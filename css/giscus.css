@@ -196,3 +196,9 @@
 .gsc-reply-box img {
   margin-right: var(--half) !important;
 }
+
+.gsc-replies {
+  border-top: 1px solid #EEEEEE;
+  margin-top: var(--quarter);
+  padding-top: var(--quarter);
+}
