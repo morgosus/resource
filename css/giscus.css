@@ -155,6 +155,6 @@
   margin-right: var(--half) !important;
 }
 
-.gsc-reply-author:first-child {
+.gsc-reply-author time {
   margin-right: var(--half);
 }
