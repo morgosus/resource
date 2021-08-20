@@ -74,6 +74,10 @@
     max-width: 30%;
 }
 
+.gsc-comment-header:last-child, .gsc-comment-author:last-child {
+    display: none;
+}
+
 .gsc-comment-content {
     max-width: 70%;
 }
