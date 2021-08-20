@@ -130,3 +130,7 @@
 .gsc-comment-author-avatar span {
   margin-bottom: 18px;
 }
+
+.gsc-reply-author-avatar {
+  margin-right: 8.090px !important;
+}
