@@ -180,6 +180,7 @@
 .gsc-comment-author-avatar {
   width: 100%;
   height: 100px;
+  object-fit: cover;
 }
 
 .gsc-comment-author:last-child {
