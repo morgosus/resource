@@ -79,7 +79,7 @@
 }
 
 .gsc-comment *:hover {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .gsc-comment {
