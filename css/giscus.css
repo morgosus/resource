@@ -199,7 +199,7 @@
 
 .gsc-replies {
   border-top: 1px solid #EEEEEE;
-  margin-top: var(--quarter) !important;
-  padding-top: var(--quarter) !important;
+  margin-top: var(--half) !important;
+  padding-top: var(--half) !important;
   width: 100%;
 }
