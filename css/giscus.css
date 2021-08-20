@@ -137,7 +137,7 @@
 }
 
 .gsc-comment-content {
-  max-width: 85%;
+  max-width: 84%;
 }
 
 .gsc-comment-author {
@@ -176,6 +176,7 @@
 .gsc-comment-author-avatar {
   width: 100px;
   height: 100px;
+  max-width: 14%;
 }
 
 .gsc-comment-author:last-child {
