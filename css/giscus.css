@@ -61,6 +61,7 @@
 }
 
 .gsc-comment {
+    /*padding: 8.09016994375px;*/
     border: black 1px solid;
 }
 
@@ -107,6 +108,8 @@
 }
 
 .gsc-comment-author-avatar {
+    width: 80px;
+    height: 80px;
 }
 
 .gsc-comment-author:last-child {
