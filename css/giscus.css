@@ -76,9 +76,6 @@
 .gsc-comment * {
   border: none;
   border-radius: 0;
-}
-
-.gsc-comment *:hover {
   text-decoration: none !important;
 }
 
