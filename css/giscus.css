@@ -34,7 +34,7 @@
   padding-left: 8.090px !important;
   font-size: 13.5px;
   line-height: 24px;
-  margin-bottom: 8.090px;
+  margin-bottom: 8.090px !important;
 }
 .gsc-comment-content blockquote p {
   display: inline;
