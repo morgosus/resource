@@ -181,18 +181,18 @@
   margin-right: var(--half) !important;
 }
 
-.gsc-comment:nth-of-type(2n) .gsc-comment-content {
+/*.gsc-comment:nth-of-type(2n+1) .gsc-comment-content {
   order: 1;
 }
 
-.gsc-comment:nth-of-type(2n) .gsc-comment-header {
+.gsc-comment:nth-of-type(2n+1) .gsc-comment-header {
   order: 2;
 }
 
-.gsc-comment:nth-of-type(2n) .gsc-replies {
+.gsc-comment:nth-of-type(2n+1) .gsc-replies {
   order: 3;
 }
 
-.gsc-comment:nth-of-type(2n) .gsc-reply-box {
+.gsc-comment:nth-of-type(2n+1) .gsc-reply-box {
   order: 4;
-}
+}*/
