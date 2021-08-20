@@ -173,10 +173,13 @@
   padding-right: var(--half) !important;
 }
 
+.gsc-comment-header {
+  max-width: 14%;
+}
+
 .gsc-comment-author-avatar {
   width: 100px;
   height: 100px;
-  max-width: 14%;
 }
 
 .gsc-comment-author:last-child {
