@@ -88,8 +88,6 @@
 }
 
 .gsc-comment {
-  padding: var(--full) !important;
-  border: #EEEEEE 1px solid;
   margin-bottom: var(--full) !important;
 }
 
