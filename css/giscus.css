@@ -25,6 +25,8 @@
   border-radius: 0 !important;
   margin: 0;
   padding: 0;
+  font-size: 18px;
+  line-height: 32px;
 }
 
 /*Blockquotes*/
@@ -32,8 +34,8 @@
 .gsc-comment-content blockquote {
   border-left: 4.031px solid #EEEEEE;
   padding-left: 8.090px !important;
-  font-size: 13.5px;
-  line-height: 24px;
+  font-size: 13.5px !important;
+  line-height: 24px !important;
   margin-bottom: 8.090px !important;
 }
 .gsc-comment-content blockquote p {
