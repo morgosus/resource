@@ -68,6 +68,15 @@
 }
 
 /*Textarea*/
+
+.gsc-comment-box {
+  padding: var(--half);
+}
+
+.gsc-comment-box-preview {
+  margin-bottom: var(--half);
+}
+
 .gsc-comment-box-textarea {
   resize: none;
 }
@@ -81,7 +90,7 @@
 
 .gsc-comment {
   padding: var(--half) !important;
-  border: black 1px solid;
+  border: #EEEEEE 1px solid;
   margin-bottom: var(--full) !important;
 }
 
