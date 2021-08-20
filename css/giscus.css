@@ -147,18 +147,14 @@
   height: 100%;
 }
 
-.gsc-comment-author-avatar span {
-  margin-bottom: var(--full);
-}
-
 .gsc-reply-author-avatar {
   margin-right: var(--half) !important;
 }
 
 .gsc-reply-author time {
-  margin-right: var(--half);
+  margin-left: var(--half) !important;;
 }
 
 .gsc-reply-box img {
-  margin-right: var(--half);
+  margin-right: var(--half) !important;
 }
