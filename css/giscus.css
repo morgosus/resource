@@ -209,3 +209,7 @@
 .gsc-reply {
   margin-bottom: var(--half) !important;
 }
+
+.gsc-comment-box-tabs {
+  display: none;
+}
