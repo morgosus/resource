@@ -1,3 +1,9 @@
+:root {
+  --full: 18.180px;
+  --half: 8.090px;
+  --quarter: 4.031px;
+}
+
 /* Reorganize */
 .gsc-comments > .gsc-header {
   order: 1;
@@ -32,9 +38,9 @@
 /*Blockquotes*/
 
 .gsc-comment-content blockquote {
-  border-left: 4.031px solid #EEEEEE;
-  padding-left: 8.090px !important;
-  margin-bottom: 8.090px !important;
+  border-left: var(--quarter) solid #EEEEEE;
+  padding-left: var(--half) !important;
+  margin-bottom: var(--half) !important;
 }
 
 .gsc-comment-content blockquote * {
@@ -67,12 +73,12 @@
 }
 
 .gsc-comment {
-  padding: 8.090px !important;
+  padding: var(--half) !important;
   border: black 1px solid;
 }
 
 .gsc-comment-content {
-  margin-left: 8.090px !important;
+  margin-left: var(--half) !important;
 }
 
 /*Reply box*/
@@ -132,13 +138,13 @@
 }
 
 .gsc-comment-author-avatar span {
-  margin-bottom: 18px;
+  margin-bottom: var(--full);
 }
 
 .gsc-reply-author-avatar {
-  margin-right: 8.090px !important;
+  margin-right: var(--half) !important;
 }
 
 .gsc-reply-author:first-child {
-  margin-right: 8.090px;
+  margin-right: var(--half);
 }
