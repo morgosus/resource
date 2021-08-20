@@ -78,6 +78,10 @@
   border-radius: 0;
 }
 
+.gsc-comment *:hover {
+  text-decoration: none;
+}
+
 .gsc-comment {
   padding: var(--half) !important;
   border: black 1px solid;
