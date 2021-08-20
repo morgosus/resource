@@ -81,7 +81,7 @@
 }
 
 .gsc-comment-header:last-child, .gsc-comment-author:last-child {
-    display: none;
+    display: none !important;
 }
 
 .gsc-comment-content {
