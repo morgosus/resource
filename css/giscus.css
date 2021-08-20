@@ -47,9 +47,14 @@
     resize: none;
 }
 
+#__next * {
+    border-radius: 0 !important;
+}
+
 /*Comments*/
 .gsc-comment * {
     border: none;
+    border-radius: 0;
 }
 
 .gsc-comment {
