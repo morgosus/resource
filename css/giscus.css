@@ -127,6 +127,10 @@
   padding: var(--full) !important;
 }
 
+.gsc-comment-author-avatar img {
+  margin-right: var(--full) !important;
+}
+
 .gsc-comment-box-textarea {
   cursor: text !important;
   resize: none;
