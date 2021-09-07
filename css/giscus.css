@@ -26,6 +26,32 @@
   padding: var(--half) !important;
 }
 
+/*Blockquotes*/
+
+.gsc-comment-content blockquote {
+  border-left: var(--quarter) solid #EEEEEE !important;
+  padding-left: var(--half) !important;
+  margin-bottom: var(--half) !important;
+}
+
+.gsc-comment-content blockquote * {
+  font-size: 13.5px !important;
+  line-height: 24px !important;
+}
+
+.gsc-comment-content blockquote p {
+  display: inline;
+  font-style: italic;
+}
+.gsc-comment-content blockquote p:before {
+  content: '”';
+  display: inline;
+}
+.gsc-comment-content blockquote p:after {
+  content: '„';
+  display: inline;
+}
+
 /* Remove clutter */
 .gsc-header, .gsc-comment-reactions, .gsc-reactions-menu, .gsc-comment-replies-count, .gsc-comment-box-markdown-hint, .gsc-upvotes, .gsc-comment-box-separator, .gsc-reply-box img, .gsc-reply-author .hidden, .gsc-comment-header .flex, .gsc-comment-box-tabs {
   display: none;
