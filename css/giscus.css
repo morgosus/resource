@@ -129,6 +129,11 @@
 
 .gsc-comment-box-textarea {
   cursor: text !important;
+  resize: none;
+}
+
+.gsc-comment-box-textarea:focus {
+  outline: 2px solid black; !important;
 }
 
 .gsc-comment-box-bottom {
