@@ -52,7 +52,7 @@
   border: var(--quarter) solid #FBFBFB !important;
   text-align: justify;
   padding: var(--full) !important;
-  margin-top: var(--full) !important;
+  margin: var(--full) !important;
 }
 
 .gsc-comment-header {
