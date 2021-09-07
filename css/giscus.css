@@ -121,6 +121,11 @@
 .form-control {
   cursor: pointer;
 }
+
+.gsc-comment-box {
+  padding: var(--full) !important;
+}
+
 .gsc-comment-box-textarea {
   cursor: text !important;
 }
@@ -137,4 +142,5 @@
 
 .gsc-comment-box-buttons .btn, .gsc-comment-box-buttons .btn-primary {
   color: #0000EE;
+  margin-left: auto !important;
 }
