@@ -185,11 +185,15 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .gsc-comments *, .gsc-comment-content blockquote {
+  .gsc-comments * {
     outline-color: #000000 !important;
     border-color: #121212 !important;
     background-color: #262626 !important;
     color: rgba(255,255,255,0.60) !important;
+  }
+
+  .gsc-comment-content blockquote {
+    border-color: rgba(255,255,255,0.33) !important
   }
 
   .gsc-comments button { color: rgba(135,206,250,0.60) !important; }
