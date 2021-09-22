@@ -179,3 +179,26 @@
   color: #0000EE;
   margin-left: auto !important;
 }
+
+.flex .rounded-full {
+  margin: var(--half) !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gsc-comments *, .gsc-comment-content blockquote {
+    outline-color: #000000 !important;
+    border-color: #121212 !important;
+    background-color: #262626 !important;
+    color: rgba(255,255,255,0.60) !important;
+  }
+
+  .gsc-comments button { color: rgba(135,206,250,0.60) !important; }
+
+  .gsc-comments img {
+    opacity: 0.75;
+  }
+
+  .gsc-comments img:hover {
+    opacity: 1;
+  }
+}
